@@ -20,14 +20,14 @@ This Tableau project presents a complete **HR Data Analytics Dashboard** designe
 
 ## 3. Key Features of the Dashboard
 
-### 🔹 Top KPI Tiles
+###  Top KPI Tiles
 
 -  **Total Employees**
 -  **Attrition Count**
 -  **Average Job Satisfaction**
 -  **Average Performance Rating**
 
-### 🔹 Visual Breakdown
+###  Visual Breakdown
 
 | Visualization                        | Purpose                                          |
 |-------------------------------------|--------------------------------------------------|
