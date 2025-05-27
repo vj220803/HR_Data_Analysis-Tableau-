@@ -1,6 +1,6 @@
 # HR Data Analytics Dashboard - Tableau Project
 
-![Dashboard Preview](images/dashboard_main.png) 
+![Dashboard Preview](https://github.com/vj220803/HR_Data_Analysis-Tableau-/blob/main/HR_Data_Analysis_ss.PNG) 
 
 ## 1. Overview
 
